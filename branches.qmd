@@ -8,7 +8,9 @@ editor: visual
 
 Here is my update
 
-
 Hi Kiran!
 
-This is amazing. 
+This is amazing.
+
+Another update!\
+~This\ is\ cool~
